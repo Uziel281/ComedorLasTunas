@@ -4,9 +4,9 @@ message: Configuracion de Gestión de usuarios en el servidor levantado!
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/bddetunas?serverTimezone=UTC
+    url: jdbc:mysql://localhost:3306/bdlastunas?serverTimezone=UTC
     username: root
-    password: 12345678
+    password: 123456789
   jpa:
     hibernate:
       ddl-auto: update
